@@ -1,4 +1,4 @@
-import { ArrowLeft, CheckIcon, Edit2Icon, Loader2Icon } from 'lucide-react'
+import { ArrowLeft, CheckIcon, Edit2Icon, Loader2Icon,LogOut } from 'lucide-react'
 import React, { useState } from 'react'
 import { useAuth } from './AuthContext'
 import { useNavigate } from 'react-router-dom';
@@ -87,10 +87,9 @@ function Profile(props) {
                     </div>
                 </div>
                 <button
-                    className="mt-8 px-4 py-3 rounded bg-primary hover:bg-primary-dense text-white"
-                    onClick={handleLogout}
-                >
-                    Logout
+                    className="mt-8 px-4 py-3 rounded bg-primary hover:bg-primary-dense text-black font-weight:bold flex gap-1"
+                    onClick={handleLogout}>
+                   <LogOut /> LOGOUT 
                 </button>
             </div>
         </div>
