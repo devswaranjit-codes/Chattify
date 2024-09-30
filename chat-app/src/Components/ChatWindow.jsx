@@ -138,7 +138,7 @@ function ChatWindow() {
         ))}
       </div>
       <div className="bg-background py-3 px-6 shadow flex items-center gap-6">
-        <PlusIcon />
+     <button> <PlusIcon /> </button>  
         <input
           value={msg}
           onChange={(e) => {
