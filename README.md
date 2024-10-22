@@ -2,7 +2,18 @@
 -  react
 -  tailwind css
 -  Firebase(for backend services)
+-  vite(build tool for react)
+                               ==## THANKS FOR VISITING MY GITHUB REPO PLEASE FOLLOW FOR MORE CODES LIKE THIS....🔥==
+   ## Getting Started 🛠️
 
+To get started, follow these steps:
+
+1. Clone the repo: `git clone https://github.com/devswaranjit-codes/chat-application`
+2. Install dependencies: `npm install`
+3. Run the app: `npm start`
+
+
+ # you can also fork my application 
 
 
 
