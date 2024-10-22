@@ -1,11 +1,13 @@
-## This is an web based chat application whis is using following Technologies:
+## This is an web based chat application which is using following Technologies:
 -  react
 -  tailwind css
 -  Firebase(for backend services)
 -  vite(build tool for react)
 
 
-                               ## THANKS FOR VISITING MY GITHUB REPO PLEASE FOLLOW FOR MORE CODES LIKE THIS....🔥
+                               ### THANKS FOR VISITING MY GITHUB REPO PLEASE FOLLOW FOR MORE CODES LIKE THIS....🔥
+
+   
    ## Getting Started 🛠️
 
 To get started, follow these steps:
