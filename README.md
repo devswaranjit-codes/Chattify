@@ -1,3 +1,16 @@
+
+# Chat application 
+*Company name*: CODTECH IT SOLUTIONS
+
+*Name*: Swaranjit Banerjee
+
+*Intern ID*: CT04DG1901
+
+*Domain*: React Web Development
+
+*Duration*: 4 weeks
+
+*Mentor*: Neela Santosh
 ## This is an web based chat application which is using following Technologies:
 -  react
 -  tailwind css
